@@ -1,6 +1,7 @@
 # E2EPepMTL: An Automated Multi-Task Deep Learning Framework with Protein Language Model for Peptide Bioactivity Prediction
 
 E2EPepMTL is an end-to-end automated pipeline that streamlines peptide model development by coupling negative sequence selection, dataset partitioning, architecture search, hyperparameter tuning, model evaluation, and production model generation.
+
 ![Framework](Framework.png "Framework")
 
 ## Getting Started
